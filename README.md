@@ -1,3 +1,9 @@
+Do Composer Update So You Can Use It
+```
+$ composer update 
+```
+
+
 
 ## API Reference
 
