@@ -13,7 +13,10 @@
 | `second_scala` | `int` | **Required**. The scala after changed  |
 | `ipt_num` | `int` | **Required**. The number you want to convert  |
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](Screencast 2022-12-12 20:37:58.mp4)
 
 
+
+
+
+https://user-images.githubusercontent.com/92316345/207061783-3390b556-9836-4877-a64e-6003a2c51c1b.mp4
 
