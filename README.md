@@ -1,10 +1,3 @@
-Do Composer Update So You Can Use It
-```
-$ composer update 
-```
-
-
-
 ## API Reference
 
 ### Convert any scala
@@ -22,8 +15,9 @@ $ composer update
 
 
 
-
-
 ## Demo API
 https://user-images.githubusercontent.com/92316345/207061783-3390b556-9836-4877-a64e-6003a2c51c1b.mp4
+
+
+Do Composer Update So You Can Use It
 
